@@ -1,4 +1,4 @@
-# Programming-Fundamentals---assignment1
+# Programming Fundamentals---assignment1
 MyBlock is a simple tool which can help one design a block of land. 
 Your program should consist of a MyBlock class. The class has a two dimensional array of
 integers called block. The class also has a Boolean variable vacant that stores the information
